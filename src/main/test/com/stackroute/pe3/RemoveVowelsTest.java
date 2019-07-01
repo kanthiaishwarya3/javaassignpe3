@@ -49,14 +49,14 @@ public class RemoveVowelsTest {
 
 
     }
-    @Test
+    /*@Test
     public void nullPointer() {
         removeVowels = new RemoveVowels();
         String s = "";
 
         String str = removeVowels.nullPointerException(s);
         assertEquals("input string cannot be null",str);//checking expected and actual values
-    }
+    }*/
     @Test
 
     public void places2() {
